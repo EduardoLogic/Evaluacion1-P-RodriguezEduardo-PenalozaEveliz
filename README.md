@@ -27,7 +27,10 @@ Para levantar este proyecto en un entorno local, siga estos pasos:
 5. Migrar la base de datos:
    `php artisan migrate --seed`
 6. Ejecutar el servidor:
+
    `php artisan serve`
+
+![Captura de pantalla_2026-02-06_00-20-34](https://github.com/user-attachments/assets/eb7ebf4f-1832-4b98-b3ed-f1a0ea34769f)
 
 
 Ahora abre el navegador y pon esta dirección: http://127.0.0.1:8000/vehiculos
